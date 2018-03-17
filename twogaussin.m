@@ -1,5 +1,5 @@
 %In this script, we select the feature in multivariate gaussin as a classifier, by using the maximum likelihood estimation, we
-get our 1-d gaussin classifer
+%get our 1-d gaussin classifer
 BG = TrainsampleDCT_BG(:,:);
 FG = TrainsampleDCT_FG(:,:);
 

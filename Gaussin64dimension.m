@@ -1,5 +1,5 @@
 %By maximum likelihood estimation, we generative 64 dimensional gaussin classifier. Then using this classifier to get the 
-accuracy of the prediction of the original cheetah image. 
+%accuracy of the prediction of the original cheetah image. 
 %BG = TrainsampleDCT_BG(:,:);
 %FG = TrainsampleDCT_FG(:,:);
 BGRownum = 1053;
